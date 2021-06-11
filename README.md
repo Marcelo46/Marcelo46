@@ -1,4 +1,4 @@
-### Olá!👋 Seja bem vindo ao meu GitHub! :smile:
+### Olá!👋 Seja bem vindo ao meu GitHub! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 #### Ferramentas e tecnologias que trabalho
 
