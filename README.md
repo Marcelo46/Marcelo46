@@ -31,7 +31,7 @@
 
 #### :man: :woman: Mídias Sociais
 
-[![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-Marcelo_Amaro-blue?style=social&logo=linkedin&link=www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142&logoColor=blue&color=2c59ad)](www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142)
+[![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-Marcelo_Amaro-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142&logoColor=blue&color=2c59ad)](https://www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142)
 ![](https://img.shields.io/badge/Media-Facebook-1877F2?style=flag&logo=facebook&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Media-GitHub-100000?style=flag&logo=github&logoColor=white&color=2c59ad)
 [![MAIL Badge](https://img.shields.io/badge/Email-souzamarcelo793@gmail.com-c14438?style=flag&logo=Gmail&logoColor=white&color=2c59ad&link=mailto:souzamarcelo793@gmail.com)](mailto:souzamarcelo793@gmail.com)
