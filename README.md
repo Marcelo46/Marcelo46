@@ -15,20 +15,11 @@
 <img src= "https://img.shields.io/badge/BD-Firebird-informational?style=flat&logo=firebird&logoColor=white&color=4682B4">
 <img src= "https://img.shields.io/badge/BD-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=4682B4">
 
- ## 1. GitHub Stats
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)
- ## 2. Most Used Languages
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)
- <!--
- ## 3. Contributors Badge
- ![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
- -->
- ## 4. Random Joke Generator
- ![Jokes Card](https://readme-jokes.vercel.app/api)
- ## 5. Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Marcelo46)
- ### Repository View Counter - HITS
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Marcelo46/Python)
+#### 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)<br/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)<br/>
+![Profile View Counter](https://komarev.com/ghpvc/?username=Marcelo46)<br/>
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Marcelo46/Python)
  
  <!--
 **Marcelo46/Marcelo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
