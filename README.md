@@ -17,9 +17,9 @@
 # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 -->
  ## 1. GitHub Stats
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)
  ## 2. Most Used Languages
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=blue-green)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)
  <!--
  ## 3. Contributors Badge
  ![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
