@@ -9,13 +9,13 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2c59ad)
 <img src = "https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=java&logoColor=white&color=2c59ad">
 
-#### :zap: Banco de dados
+#### :zap: Bancos de dados
 
-![](https://img.shields.io/badge/BD-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2c59ad)
-![](https://img.shields.io/badge/Code-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2c59ad)
-![](https://img.shields.io/badge/BD-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2c59ad)
-<img src= "https://img.shields.io/badge/BD-Firebird-informational?style=flat&logo=firebird&logoColor=white&color=2c59ad">
-<img src= "https://img.shields.io/badge/BD-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2c59ad">
+![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/DB-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2c59ad)
+<img src= "https://img.shields.io/badge/DB-Firebird-informational?style=flat&logo=firebird&logoColor=white&color=2c59ad">
+<img src= "https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2c59ad">
 
 #### :cloud: Nuvem
 
@@ -28,7 +28,21 @@
 ![](https://img.shields.io/badge/Framework-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flag&logo=visual%20studio%20code&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flag&logo=notepad%2B%2B&logoColor=white&color=2c59ad)
-![](https://img.shields.io/badge/Editor-Cucumber-informational?style=flag&logo=https://user-images.githubusercontent.com/34240983/121955960-f064d480-cd36-11eb-930f-e95156941aa8.png&logoColor=white&color=2c59ad)
+
+#### :cyclone: Ágil
+
+![](https://img.shields.io/badge/Agile-Scrum-informational?style=flat&logo=appveyor&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Agile-Kanban-informational?style=flat&logo=appveyor&logoColor=white&color=2c59ad)
+
+#### :gear: Teste automatizado
+
+![](https://img.shields.io/badge/Document-BDD-informational?style=flat&logo=bdd&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/framework-Capybara-informational?style=flat&logo=capybara&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/framework-Cucumber-informational?style=flag&logo=https://user-images.githubusercontent.com/34240983/121955960-f064d480-cd36-11eb-930f-e95156941aa8.png&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Document-Gherkin-informational?style=flat&logo=gherkin&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/framework-Jmeter-informational?style=flat&logo=jmeter&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Document-TestLink-informational?style=flat&logo=test&logoColor=white&color=2c59ad)
+
 
 #### :man: :woman: Mídias Sociais
 
