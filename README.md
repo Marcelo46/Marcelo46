@@ -31,8 +31,8 @@
 
 #### :cyclone: Ágil
 
-![](https://img.shields.io/badge/Agile-Scrum-informational?style=flat&logo=appveyor&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Agile-Kanban-informational?style=flat&logo=appveyor&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Agile-Scrum-informational?style=flat&logo=appveyor&logoColor=white&color=2c59ad)
 
 #### :gear: Teste automatizado
 
@@ -43,6 +43,13 @@
 ![](https://img.shields.io/badge/framework-Jmeter-informational?style=flat&logo=jmeter&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Document-TestLink-informational?style=flat&logo=test&logoColor=white&color=2c59ad)
 
+#### :art: Design
+
+![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=2c59ad)
+
+#### :credit_card: E-commerce
+
+![](https://img.shields.io/badge/E_commerce-Magento-informational?style=flat&logo=magento&logoColor=white&color=2c59ad)
 
 #### :man: :woman: Mídias Sociais
 
@@ -52,10 +59,11 @@
 [![MAIL Badge](https://img.shields.io/badge/Email-souzamarcelo793@gmail.com-c14438?style=flag&logo=Gmail&logoColor=white&color=2c59ad&link=mailto:souzamarcelo793@gmail.com)](mailto:souzamarcelo793@gmail.com)
 
 #### :bar_chart: GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)<br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)<br/>
-![Profile View Counter](https://komarev.com/ghpvc/?username=Marcelo46)<br/>
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Marcelo46/Python)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)<br/><br/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)<br/><br/>
+![Profile View Counter](https://komarev.com/ghpvc/?username=Marcelo46&color=2c59ad)<br/><br/>
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Marcelo46/Python)<br/><br/>
+[![NAME Badge](https://img.shields.io/badge/%C2%A9_Marcelo_Amaro-2021-2c59ad?&style=for-the-badge)](https://www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142)
  
  <!--
 **Marcelo46/Marcelo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
