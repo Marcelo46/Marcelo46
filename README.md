@@ -16,7 +16,11 @@
 # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 -->
 
-<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src= "https://img.shields.io/badge/Language-HTML5-informational?style=flat&logo&logo=html&logoColor=white&color=1E90FF">
+<img src = "https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=1E90FF">
+<img src= "https://img.shields.io/badge/BD-Oracle-informational?style=flat-square&logo&logo=Oracle&logoColor=white&color=1E90FF">
+<img src= "https://img.shields.io/badge/BD-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=1E90FF">
+<img src= "https://img.shields.io/badge/BD-Firebird-informational?style=flat&logo=firebird&logoColor=white&color=1E90FF">
 
  ## 1. GitHub Stats
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)
