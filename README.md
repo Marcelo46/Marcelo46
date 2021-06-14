@@ -27,7 +27,8 @@
 ![](https://img.shields.io/badge/Framework-Git-informational?style=flat&logo=git&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Framework-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flag&logo=visual%20studio%20code&logoColor=white&color=2c59ad)
-![](https://img.shields.io/badge/Editor-Notepad++-informational.svg?style=flag&logo=notepad%2B%2B&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flag&logo=notepad%2B%2B&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Editor-Cucumber-informational?style=flag&logo=https://user-images.githubusercontent.com/34240983/121955960-f064d480-cd36-11eb-930f-e95156941aa8.png&logoColor=white&color=2c59ad)
 
 #### :man: :woman: Mídias Sociais
 
