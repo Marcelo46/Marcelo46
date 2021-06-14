@@ -5,23 +5,37 @@
 #### :man_technologist: Linguagens
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2c59ad)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4682B4)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4682B4)
-<img src = "https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=java&logoColor=white&color=4682B4">
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2c59ad)
+<img src = "https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=java&logoColor=white&color=2c59ad">
 
 #### :zap: Banco de dados
 
-![](https://img.shields.io/badge/BD-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=4682B4)
-![](https://img.shields.io/badge/Code-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=4682B4)
-![](https://img.shields.io/badge/BD-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4682B4)
-<img src= "https://img.shields.io/badge/BD-Firebird-informational?style=flat&logo=firebird&logoColor=white&color=4682B4">
-<img src= "https://img.shields.io/badge/BD-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=4682B4">
+![](https://img.shields.io/badge/BD-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Code-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/BD-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2c59ad)
+<img src= "https://img.shields.io/badge/BD-Firebird-informational?style=flat&logo=firebird&logoColor=white&color=2c59ad">
+<img src= "https://img.shields.io/badge/BD-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2c59ad">
 
 #### :cloud: Nuvem
 
-![](https://img.shields.io/badge/Cloud-microsoft%20azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=4682B4)
+![](https://img.shields.io/badge/Cloud-microsoft%20azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2c59ad)
 
-#### 1. GitHub Stats
+#### :rocket: Frameworks
+
+![](https://img.shields.io/badge/Framework-GraphQl-informational?style=flat&logo=graphql&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Framework-Git-informational?style=flat&logo=git&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Framework-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flag&logo=visual%20studio%20code&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Editor-Notepad++-informational.svg?style=flag&logo=notepad%2B%2B&logoColor=white&color=2c59ad)
+
+#### :man: :woman: Mídias Sociais
+
+![](https://img.shields.io/badge/Media-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Media-Facebook-1877F2?style=flag&logo=facebook&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Media-GitHub-100000?style=flag&logo=github&logoColor=white&color=2c59ad)
+
+#### :bar_chart: GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)<br/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)<br/>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Marcelo46)<br/>
