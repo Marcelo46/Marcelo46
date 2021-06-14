@@ -13,9 +13,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
 -->
+
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
  ## 1. GitHub Stats
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Marcelo46&show_icons=true&theme=tokyonight)
  ## 2. Most Used Languages
