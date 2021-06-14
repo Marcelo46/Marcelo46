@@ -4,7 +4,7 @@
 
 #### :man_technologist: Linguagens
 
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=70a5fd)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4682B4)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4682B4)
 <img src = "https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=java&logoColor=white&color=4682B4">
