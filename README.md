@@ -5,6 +5,7 @@
 #### :man_technologist: Linguagens
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2c59ad)
 <img src = "https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=java&logoColor=white&color=2c59ad">
@@ -19,7 +20,8 @@
 
 #### :cloud: Nuvem
 
-![](https://img.shields.io/badge/Cloud-microsoft%20azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=flat&logo=Microsoft&logoColor=white&color=2c59ad)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Aws&logoColor=white&color=2c59ad)
 
 #### :rocket: Frameworks
 
@@ -36,6 +38,7 @@
 
 #### :gear: Teste automatizado
 
+![](https://img.shields.io/badge/framework-Cypress-informational?style=flat&logo=bdd&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/Document-BDD-informational?style=flat&logo=bdd&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/framework-Capybara-informational?style=flat&logo=capybara&logoColor=white&color=2c59ad)
 ![](https://img.shields.io/badge/framework-Cucumber-informational?style=flag&logo=https://user-images.githubusercontent.com/34240983/121955960-f064d480-cd36-11eb-930f-e95156941aa8.png&logoColor=white&color=2c59ad)
