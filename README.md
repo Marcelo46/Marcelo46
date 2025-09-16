@@ -66,7 +66,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo46&theme=tokyonight)<br/><br/>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Marcelo46&color=2c59ad)<br/><br/>
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Marcelo46/Python)<br/><br/>
-[![NAME Badge](https://img.shields.io/badge/%C2%A9_Marcelo_Amaro-2021-2c59ad?&style=for-the-badge)](https://www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142)
+[![NAME Badge](https://img.shields.io/badge/%C2%A9_Marcelo_Amaro-2025-2c59ad?&style=for-the-badge)](https://www.linkedin.com/in/marcelo-henrique-de-souza-amaro-196b99142)
  
  <!--
 **Marcelo46/Marcelo46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
